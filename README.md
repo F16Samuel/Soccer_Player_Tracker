@@ -117,7 +117,6 @@ The processed video includes:
 ## 💡 Notes
 
 - The project supports plug-and-play tracking modules.
-- Radar-based field-aware tracker offers re-identification even after players re-enter the frame, but it’s still under tuning.
 - Video must be 720p for consistent detection/classification.
 
 ---
@@ -127,6 +126,7 @@ The processed video includes:
 - Multi-camera tracker ID consistency using radar mapping.
 - Jersey number OCR using ResNet or YOLO OCR head.
 - Full analytics dashboard: heatmaps, possession zones, player movement trails.
+- Radar-based field-aware tracker offers re-identification even after players re-enter the frame, but it’s still under tuning.
 
 ---
 
