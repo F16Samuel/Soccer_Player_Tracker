@@ -68,7 +68,7 @@ Place the following files in the `models/` directory:
 
 ### Run via CLI
 
-If you've extended it into `main.py`, you can run:
+In Root FIle Run the following command in the CLI
 
 ```bash
 python main.py --input videos/input/your_video.mp4 --output videos/output/your_video_out.mp4
