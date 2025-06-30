@@ -38,8 +38,7 @@ root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/F16Samuel/soccer_player_tracker.git
-cd football-tracking/ml_app
+git clone https://github.com/F16Samuel/Soccer_Player_Tracker.git
 ```
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
