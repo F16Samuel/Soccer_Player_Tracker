@@ -15,7 +15,7 @@ root/
 │   ├── config.py                 # Constants for IDs and paths
 │   ├── pipeline.py               # Entry point for running the classification
 │   ├── tracking.py               # DeepSORT and custom tracking modules
-│   ├── utils.py                  # Helper utilities and team classifier
+│   └── utils.py                  # Helper utilities and team classifier
 │
 ├── models/
 │   ├── best.pt                   # YOLOv8 player detection model
