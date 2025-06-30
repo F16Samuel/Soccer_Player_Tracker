@@ -1,0 +1,15 @@
+# Core requirements
+numpy
+opencv-python
+torch
+pandas
+matplotlib
+tqdm
+more-itertools
+scikit-learn
+scipy
+umap-learn
+transformers
+ultralytics
+supervision
+deep_sort_realtime
